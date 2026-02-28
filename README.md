@@ -1,2 +1,3 @@
 # DEMO
-this is my first git repos
+this is my first git repository
+Author-Ayush kumar tiwari
